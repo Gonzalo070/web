@@ -1,0 +1,141 @@
+body{
+    background-color: #fcfdfe;
+}
+
+.acomodar{
+    display: flex;
+}
+
+.titulo{
+    text-align: center;
+    font-family: Portafolio;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 50px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+    background-color: #011a27;
+    color: #dda90d;
+}
+
+.subtitulo{
+    text-align: center;
+    font-family: Portafolio;
+    font-size: 25px;
+    font-weight: 400;
+    padding: 30px;
+    margin-top: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+    background-color: #f0efea;
+}
+
+.principal{
+    display: flex;
+}
+
+.video_adrian_paenza{
+    background-color: #011a27;
+    width: 400px;
+    height: 400px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+
+.imagen_adrian{
+    width: 250px;
+    margin: 60px;
+    margin-top: 3px;
+    margin-bottom: 1px;
+}
+
+.texto_adrian_paenza{
+    color: #f0efea;
+    text-shadow: 2px 3px 10px #f0efea;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 2px;
+}
+
+.avenida_complicada{
+    background-color: #011a27;
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+.imagen_avenida_complicada{
+    width: 250px;
+    margin: 65px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.enlace_trabajo{
+    color: #dda90d;
+    text-align: center;
+    text-decoration: none;
+}
+
+.subtitulo_1{
+    color: #dda90d;
+    text-align: center;
+}
+
+.subtitulo_2{
+    color: #dda90d;
+    text-align: center;
+}
+
+.subtitulo_3{
+    color: #dda90d;
+    text-align: center;
+}
+
+.texto_avenida_complicada{
+    color: #f0efea;
+    text-shadow: 2px 3px 10px #f0efea;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.trabajo_practico_1{
+    background-color: #011a27;
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.imagen_tp1{
+    width: 300px;
+    margin: 60px;
+}
+
+.texto_tp1{
+    color: #f0efea;
+    text-shadow: 2px 3px 10px #f0efea;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.btn{
+    color: #222;
+    text-align: center;
+    text-decoration: none;
+}

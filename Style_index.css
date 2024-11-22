@@ -1,0 +1,76 @@
+
+body {
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fcfdfe;
+}
+header {
+    background-color: #b7b8b6;
+    color: #2f2e33;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 10px #b7b8b6;
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+nav {
+    background-color: #f0efea;
+    color: #fff;
+    padding: 10px 10px;
+    margin: 10px;
+    text-align: auto;
+}
+nav a {
+    color: #222;
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.container {
+    padding: 20px;
+}
+section {
+    margin-bottom: 30px;
+    background-color: #011a27;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #222;
+    color: #fff;
+}
+section h2 {
+    color: #dda90d;
+    font-size: 1.5rem;
+    font-family: Modulo;
+    margin-bottom: 10px;
+}
+
+.mrs-saint-delafield-regular {
+    font-family: "Mrs Saint Delafield", cursive;
+    font-weight: 400;
+    font-style: normal;
+}  
+
+.luckiest-guy-regular {
+    font-family: "Luckiest Guy", Modulo;
+    font-weight: 400;
+    font-style: normal;}  
+
+.shadows-into-light-regular {
+    font-family: "Shadows Into Light", Modulo;
+    font-weight: 400;
+    font-style: normal;
+} 
+
+a{
+    color: #dda90d;
+    font-size: 1.5rem;
+    font-family: Modulo;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
